@@ -1,0 +1,7 @@
+dotnet new blazorserver -o blazb2c --auth IndividualB2C 
+
+
+dotnet new webapp -o webappb2c --auth IndividualB2C 
+
+dotnet new     blazorwasm   -o blazwasmb2c --auth IndividualB2C 
+    
